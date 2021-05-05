@@ -1,3 +1,3 @@
 - 👋 Hi! My name is Zacchary Puckeridge!
 - 👀 I am a Web Developer with a passion for technology, motorcycles, photography and music.
-- 📚 I am currently learning how to deploy, manage and develop Kubernetes instances, Microservices and build applications in Nuxt, Vue and PHP.
+- 📚 I am currently learning how to deploy, manage and develop Kubernetes instances, microservices and build applications in Nuxt, Vue, PHP, Gatsby and React.
