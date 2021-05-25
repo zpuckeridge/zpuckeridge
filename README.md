@@ -17,4 +17,4 @@ I am currently learning how to deploy, manage and develop Kubernetes instances, 
 
 ## 🌍 Find me on the web
 - CV, Portfolio and Blog on https://zacchary.me/
-- DEV Profiler at https://dev.to/zpuckeridge
+- DEV Profile at https://dev.to/zpuckeridge
