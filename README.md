@@ -1,12 +1,10 @@
 # 👋 Hi! I'm Zacchary.
 
-I'm a self-taught Web Developer based out of Brisbane, Australia with passions for technology, motorcycles, photography and music.
+Hi! I'm a Web Developer based out of Brisbane Australia that works for Pixel Zoo as a Junior Systems Administrator.
 
-When I'm not working on projects, I'm hanging out with mates, riding motorcycles and playing video games.
+Currently, I'm learning to manage Kubernetes deployments, develop microservices, and build front end applications in Gatsby, React and Chakra UI.
 
-At the moment, I'm looking for work in the DevOps space as a Junior with the ability to progress further in that area of expertise.
-
-I am currently learning how to deploy, manage and develop Kubernetes instances, microservices with Python and build front end applications in Nuxt, Vue, Gatsby, React and TailwindCSS.
+When I'm not at work, or working on a personal project, I'm hanging out with mates, riding motorcycles, playing video games and nerding out over audio.
 
 ## 📝 Latest Articles
 - [🎉 Implement a Dark Mode Toggle into your Gatsby Blog](https://zacchary.me/add-dark-mode-to-gatsby-blog/)
