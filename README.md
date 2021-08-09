@@ -1,10 +1,13 @@
-# 👋 Hi! I'm Zacchary.
+#👋 About Zacchary
+Hey there! I'm a industry-taught Systems Administrator based out of Brisbane, Australia. Currently, I'm working for an Animation Studio called Pixel Zoo.
 
-Hi! I'm a Web Developer based out of Brisbane Australia that works for Pixel Zoo as a Junior Systems Administrator.
+# What does industry-taught mean?
+It means that I have little to no formal training as a Systems Administrator. My experience and knowledge has been cultivated by industry professionals supplemented with self-taught first hand experience over various positions, personal development and projects.
 
-Currently, I'm learning to manage Kubernetes deployments, develop microservices, and build front end applications in Gatsby, React and Chakra UI.
+# What are you currently learning?
+Currently, I'm learning to automate various processes at Pixel Zoo and build real world applications using Python, Django, Gatsby and React.
 
-When I'm not at work, or working on a personal project, I'm hanging out with mates, riding motorcycles, playing video games and nerding out over audio.
+When I'm not at work, or working on a personal project, I'm hanging out with mates, riding motorcycles, playing video games, nerding out over audio and teaching myself animation.
 
 ## 📝 Latest Articles
 - [🖌️ I've been inspired by 'A Goofy Movie'](https://zacchary.me/inspired-by-goofy-movie/)
