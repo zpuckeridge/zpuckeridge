@@ -1,4 +1,4 @@
-#👋 About Zacchary
+# 👋 About Zacchary
 Hey there! I'm a industry-taught Systems Administrator based out of Brisbane, Australia. Currently, I'm working for an Animation Studio called Pixel Zoo.
 
 # What does industry-taught mean?
