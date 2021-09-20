@@ -1,8 +1,5 @@
 # 👋 About Zacchary
-Hey there! I'm a industry-taught Systems Administrator based out of Brisbane, Australia. Currently, I'm working for an Animation Studio called Pixel Zoo.
-
-# What does industry-taught mean?
-It means that I have little to no formal training as a Systems Administrator. My experience and knowledge has been cultivated by industry professionals supplemented with self-taught first hand experience over various positions, personal development and projects.
+Hey there! I'm a Junior Systems Administrator based out of Brisbane, Australia. Currently, I'm working for an Animation Studio called Pixel Zoo.
 
 # What are you currently learning?
 Currently, I'm learning to automate various processes at Pixel Zoo and build real world applications using Python, Django, Gatsby and React.
